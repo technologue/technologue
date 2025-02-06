@@ -1,4 +1,6 @@
-# 👋 السلام عليكم | こんにちは | Bonjour | Hi, I'm **محمد سيف الدين العزابي** | **Mohamed Seifeddine AZZABI**  
+# Hi, I'm **Mohamed Seifeddine AZZABI
+# 👋 السلام عليكم **محمد سيف الدين العزابي**  
+
 🚀 AI & IoT Enthusiast | Senior Product Manager | University Professor | Startup Technologist Advisor  
 
 
